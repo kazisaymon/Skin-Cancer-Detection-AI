@@ -1,0 +1,4 @@
+https://skin-cancer-detection-ai-ayysneeq2vsbaphwlhhkb7.streamlit.app/
+This update includes: 1. A demonstration video of the Skin Cancer Detection AI portal (mp4).
+High-resolution skin lesion images (jfif) for testing the SNC_Net engine.
+Updated assets for the UI deployment on Streamlit Cloud.
