@@ -1,7 +1,10 @@
 # Skin-Cancer-Detection-AI
-# 🇧🇩 Skin Cancer Detection AI (SNC_Net)
-
-A specialized diagnostic portal for early-stage skin cancer screening, powered by a hybrid Deep Learning architecture (Inception V3 + Vision Transformer).
+# 🇧🇩 Skin Cancer Detection AI
+#live
+A specialized diagnostic portal for early-stage skin cancer screening, powered by a hybrid Deep Learning architecture .
+## 🌐 Live Demo
+You can access the live web application here:
+**[Skin Cancer Detection AI - Live Portal](https://skin-cancer-detection-ai-ayysneeq2vsbaphwlhhkb7.streamlit.app/)**
 
 ## 🚀 Key Features
 - **SNC_Net Engine:** Hybrid feature extraction with a stacking ensemble approach.
@@ -23,7 +26,7 @@ A specialized diagnostic portal for early-stage skin cancer screening, powered b
 
 ## 📂 Project Structure
 - `app.py`: The main application script.
-- - `db_skin.sql`: The database script.
+ `db_skin.sql`: The database script.
 - `requirements.txt`: List of Python dependencies.
 - `images/`: UI assets and sample lesion data.
 - `models/` (Optional): Pre-trained weights for SNC_Net.
